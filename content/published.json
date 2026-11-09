@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "articles": [
+    {
+      "title": "The Economics of Light: How Diwali Moves India’s Economy",
+      "url": "https://theraisinapost.com/business/the-economics-of-light-how-diwali-moves-indias-economy/",
+      "date": "2026-11-08",
+      "section": "Business",
+      "standfirst": "An examination of the economic forces behind Diwali spending and seasonal commerce.",
+      "status": "published"
+    },
+    {
+      "title": "India Is Signing Long-Term Gas Deals. Who Bears the Price Risk?",
+      "url": "https://theraisinapost.com/business/india-is-signing-long-term-gas-deals-who-bears-the-price-risk/",
+      "date": "2026-11-07",
+      "section": "Business",
+      "standfirst": "How long-term supply agreements distribute energy price risks across India's economy.",
+      "status": "published"
+    }
+  ]
+}
